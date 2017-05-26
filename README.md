@@ -15,9 +15,14 @@ What things you need to install for this to work
 
 ## Built With
 * [Visual Studio C#](https://www.visualstudio.com/) - IDE
+* [MetroFramework](https://github.com/thielj/MetroFramework) - UI Framework
 
 ## Authors
 * **Myself** - *Developer*
+
+## Acknowledgements
+
+* Jens Thiel - MetroFramework
 
 ## Notes
 Will no longer be updating this app, source code has been released. Feel free to view, edit to your liking.
