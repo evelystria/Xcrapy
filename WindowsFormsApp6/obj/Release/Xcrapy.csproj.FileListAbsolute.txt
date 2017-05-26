@@ -1,0 +1,15 @@
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Release\Xcrapy.exe.config
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Release\Xcrapy.exe.manifest
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Release\Xcrapy.application
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Release\Xcrapy.exe
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Release\Xcrapy.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Release\Flat.dll
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Release\MetroFramework.dll
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Release\Xcrapy.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.Form1.resources
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Release\Xcrapy.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Release\Xcrapy.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Release\Xcrapy.exe.manifest
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Release\Xcrapy.application
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Release\Xcrapy.exe
+C:\Users\admin\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Release\Xcrapy.pdb
