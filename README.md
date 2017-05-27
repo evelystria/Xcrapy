@@ -8,10 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Pre-requisites
 What things you need to install for this to work
-```
-- Any C# IDE
-- Visual Studio (Recommended)
-```
+* Any C# IDE
+* Visual Studio (Recommended)
 
 ## Built With
 * [Visual Studio C#](https://www.visualstudio.com/) - IDE
