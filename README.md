@@ -23,4 +23,4 @@ What things you need to install for this to work
 * Jens Thiel - MetroFramework
 
 ## Notes
-Will no longer be updating this app, source code has been released. Feel free to view, edit to your liking.
+This is an open-source project.
